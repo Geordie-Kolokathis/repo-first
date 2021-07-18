@@ -1,0 +1,80 @@
+    1  pwd
+    2  ls
+    3  git init
+    4  git stash -A
+    5  git add -A
+    6  git stash -list
+    7  git stash -clear
+    8  git add -A
+    9  git commit
+   10  git commit -m "Add my first file"
+   11  git commitgiotggg
+   12  git commit -m "wrote my name"
+   13  git add -A
+   14  git commit -m "wrote my name"
+   15  git commit -a -m "committing the name of the sex god"
+   16  git commit -A
+   17  git add -A
+   18  git commit -a -m "committing the name of the sex god"
+   19  git remote add origin git@github.com:S3841476/first-repo.git
+   20  git push origin master
+   21  git remote add origin git@github.com:S3841476/first-repo.git
+   22  git push origin master
+   23  git push origin master
+   24  git remote add origin git@github.com:S3841476/first-repo.git
+   25  git push origin master
+   26  git remote add origin git@github.com:S3841476/first-repo.git
+   27  git branch -M main
+   28  git push -u origin main
+   29  git remote add origin https://github.com/S3841476/first-repo.git
+   30  git push origin master
+   31  git remote add origin https://github.com/S3841476/first-repo.git
+   32  git push origin main
+   33  git push origin master
+   34  git branch -M master
+   35  git push origin master
+   36  git remote add origin https://github.com/S3841476/repo-first.git
+   37  git remote rm https://github.com/S3841476/first-repo.git
+   38  git remote rm https://github.com/S3841476/first-repo.gt
+   39  git remote rm https://github.com/S3841476/first-repo.gt
+   40  git remote rm git@github.com:S3841476/first-repo.git
+   41  git remote add origin https://github.com/S3841476/repo-first.gi$ git remote add origin https://github.com/S3841476/repo-first.gi
+   42  $ git remote add origin https://github.com/S3841476/repo-first.gi
+   43  $ git remote add origin https://github.com/S3841476/repo-first.gi
+   44  git remote add origin https://github.com/S3841476/repo-first.git
+   45  $ git remote add origin https://github.com/S3841476/repo-first.gi
+   46  git push origin master
+   47  git init
+   48  git add -A
+   49  git stash -A
+   50  git stash -a
+   51  git commit
+   52  git commit m "deez nuts"
+   53  git stash
+   54  git stash A
+   55  git add -A
+   56  git commit -m "initial commit"
+   57  git add -A
+   58  git commit -m 
+   59  git commit -m "further changes"
+   60  git remote add origin https://github.com/S3841476/repo-first.git
+   61  git push origin master
+   62  git pull origin
+   63  pull origin master
+   64  git pull origin master
+   65  git init
+   66  git branch develop
+   67  git checkout develop
+   68  git add -A
+   69  git commit -m "Adds first branch of best Gucci Mane Lyrics & deletes leg text file"
+   70  git checkout master
+   71  git checkout develop
+   72  git checkout master
+   73  git merge develop
+   74  git add -A
+   75  git commit -m "punctuation in textfile modified"
+   76  git checkout develop
+   77  git checkout master
+   78  git push origin --all
+   79  git log
+   80  history > command.txt
