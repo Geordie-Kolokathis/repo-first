@@ -78,3 +78,34 @@
    78  git push origin --all
    79  git log
    80  history > command.txt
+   81  git add commands.txt
+   82  git add command.txt
+   83  git commit -m "adding command history"
+   84  git push origin master
+   85  git status
+   86  touch .gitignore
+   87  touch log.txt
+   88  git add -A
+   89  git status
+   90  git add -A
+   91  git status
+   92  checkout develop
+   93  git checkout develop
+   94  git merge
+   95  git checkout master
+   96  git checkout develop
+   97  git merge master -m "adding directories"
+   98  git status
+   99  git checkout master
+  100  git checkout develop
+  101  git checkout master
+  102  git push origin master
+  103  git commit -A
+  104  git commit -m "directories"
+  105  git push origin master
+  106  git config --global user.name "Geordie Kolokathis"
+  107  git config --global user.email "s384146@student.rmit.edu.au"
+  108  git branch
+  109  git log
+  110  git log > log.txt
+  111  history > command.txt
